@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/rivendell/static/css/main.00374de0.css",
+    "main.js": "/rivendell/static/js/main.2b182c4e.js",
+    "static/media/castle.png": "/rivendell/static/media/castle.5c1b65cd4b8c1dfdaf61.png",
+    "static/media/fortress.png": "/rivendell/static/media/fortress.cb12b7f09937a8cb2c96.png",
+    "static/media/waterfall.png": "/rivendell/static/media/waterfall.8a5fb400ab430ed63d5b.png",
+    "static/media/rut_miit.png": "/rivendell/static/media/rut_miit.5080f5252682eabdecfe.png",
+    "static/media/hands.png": "/rivendell/static/media/hands.6020cbbfeef9471b1c43.png",
+    "static/media/interin.jpg": "/rivendell/static/media/interin.04552a94cdbf2fdd81ff.jpg",
+    "static/media/Roboto-BlackItalic.woff": "/rivendell/static/media/Roboto-BlackItalic.84f93f69cea61f952218.woff",
+    "static/media/Roboto-LightItalic.woff": "/rivendell/static/media/Roboto-LightItalic.ba91f3ffe5ee2fcecad1.woff",
+    "static/media/Roboto-MediumItalic.woff": "/rivendell/static/media/Roboto-MediumItalic.8677712d334e950b097e.woff",
+    "static/media/Roboto-BoldItalic.woff": "/rivendell/static/media/Roboto-BoldItalic.cd73b1fe31206c9107ea.woff",
+    "static/media/Roboto-Italic.woff": "/rivendell/static/media/Roboto-Italic.35558e7475bec81e0f0f.woff",
+    "static/media/Roboto-ThinItalic.woff": "/rivendell/static/media/Roboto-ThinItalic.a4abba9974527c544e5f.woff",
+    "static/media/1c.png": "/rivendell/static/media/1c.057f6fa56a4999f8abd4.png",
+    "static/media/Roboto-Medium.woff": "/rivendell/static/media/Roboto-Medium.61c265591865cecb1c3d.woff",
+    "static/media/Roboto-Black.woff": "/rivendell/static/media/Roboto-Black.c0379944e86304e2d36e.woff",
+    "static/media/Roboto-Bold.woff": "/rivendell/static/media/Roboto-Bold.75a1a5b5582b236e0fe3.woff",
+    "static/media/Roboto-Regular.woff": "/rivendell/static/media/Roboto-Regular.774f99460b8c31560a3c.woff",
+    "static/media/Roboto-Light.woff": "/rivendell/static/media/Roboto-Light.19a99746405e8730f34c.woff",
+    "static/media/Roboto-Thin.woff": "/rivendell/static/media/Roboto-Thin.a41eb1edbdbc6a92791c.woff",
+    "static/media/rjd.png": "/rivendell/static/media/rjd.cc0e2e3c23186cb77c27.png",
+    "static/media/city.jpg": "/rivendell/static/media/city.2ef8279ce235639d436f.jpg",
+    "static/media/strelka_red.png": "/rivendell/static/media/strelka_red.188cd6a0d3489f53151b.png",
+    "index.html": "/rivendell/index.html",
+    "main.00374de0.css.map": "/rivendell/static/css/main.00374de0.css.map",
+    "main.2b182c4e.js.map": "/rivendell/static/js/main.2b182c4e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.00374de0.css",
+    "static/js/main.2b182c4e.js"
+  ]
+}
