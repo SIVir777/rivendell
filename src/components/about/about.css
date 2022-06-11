@@ -1,0 +1,75 @@
+.aboutTitle {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+    font-size: 30px;
+    margin-top: 30px;
+    margin-bottom: 17px;
+}
+
+.blockTextONas {
+
+}
+
+.punctText {
+    display: block;
+    margin-bottom: 15px; 
+}
+
+.blockTextONas p {
+    font-family: 'Roboto';
+    display: inline-block;
+    width: 800px;
+}
+
+.tochka {
+    display: inline-block;
+    width: 15px;
+    height: 15px;
+    border-radius: 50%;
+    background: #244ff0;
+    margin-left: 10px;
+    margin-right: 7px;
+    vertical-align: top;
+}
+
+@media screen and (max-width: 1200px) {
+    .container {
+        width: 1140px;
+    }
+}
+
+@media screen and (max-width: 1199px) {
+    .container {
+        width: 960px;
+    }
+}
+
+@media screen and (max-width: 991px) {
+    .container {
+        width: 720px;
+    }
+
+    .blockTextONas p {
+        display: inline;
+    }
+}
+
+@media screen and (max-width: 767px) {
+    .container {
+        width: 540px;
+    }
+}
+
+@media screen and (max-width: 575px) {
+    .container {
+        width: 93%;
+    }
+
+    .punctText {
+        display: flex;
+    }
+
+    .blockTextONas p{
+        width: 250px;
+    }
+}
