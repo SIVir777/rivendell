@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/rivendell/static/css/main.00374de0.css",
-    "main.js": "/rivendell/static/js/main.2b182c4e.js",
+    "main.js": "/rivendell/static/js/main.86c1079a.js",
     "static/media/castle.png": "/rivendell/static/media/castle.5c1b65cd4b8c1dfdaf61.png",
     "static/media/fortress.png": "/rivendell/static/media/fortress.cb12b7f09937a8cb2c96.png",
     "static/media/waterfall.png": "/rivendell/static/media/waterfall.8a5fb400ab430ed63d5b.png",
@@ -26,10 +26,10 @@
     "static/media/strelka_red.png": "/rivendell/static/media/strelka_red.188cd6a0d3489f53151b.png",
     "index.html": "/rivendell/index.html",
     "main.00374de0.css.map": "/rivendell/static/css/main.00374de0.css.map",
-    "main.2b182c4e.js.map": "/rivendell/static/js/main.2b182c4e.js.map"
+    "main.86c1079a.js.map": "/rivendell/static/js/main.86c1079a.js.map"
   },
   "entrypoints": [
     "static/css/main.00374de0.css",
-    "static/js/main.2b182c4e.js"
+    "static/js/main.86c1079a.js"
   ]
 }
